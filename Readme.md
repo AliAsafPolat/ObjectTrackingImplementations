@@ -1,1 +1,1 @@
-Bu repoda Gömülü Sistemler üzerinde yaptığım çalışmalar bulunmaktadır.
+Bu repoda yapay zeka üzerinde yaptığım araştırmalar bulunmaktadır.
